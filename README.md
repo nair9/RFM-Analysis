@@ -20,5 +20,5 @@ The data used in this project is sourced from the **Online Retail II Data Set** 
   - `CustomerID`: Unique identifier for each customer.
   - `Country`: Country where the customer resides.
 
-### Usage:
-This dataset is used for performing RFM (Recency, Frequency, Monetary) analysis, customer segmentation, and other exploratory data analysis tasks in this repository. The data has been preprocessed to handle missing values and outliers where applicable, and it is used to derive insights into customer purchasing behavior and patterns.
+### Visualization:
+This dataset is used for performing RFM (Recency, Frequency, Monetary) analysis and customer segmentation. The data has been preprocessed to handle missing values and outliers where applicable, and it is used to derive insights into customer purchasing behavior and patterns. The Tableau Visualization can be found here: [Tableau Visualization](https://public.tableau.com/app/profile/ashnair/viz/RFMAnalysis_17183097564710/RFMAnalysisDashboard?publish=yes)
